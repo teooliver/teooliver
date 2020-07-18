@@ -2,7 +2,7 @@
 I'm a Web Developer aiming to be a React/Typescript specialist.
 
 #### About:
-- 🌐 This is my personal website with examples of my work on <a href="https://teooliver.me/">teooliver.me</a>
+- 🌐 Personal website with examples of my work: <a href="https://teooliver.me/">teooliver.me</a>
 - 🌱 Learning more about and studying: **Open Source, CS Algorithms, Docker**
 - 😄 Passionate about accessibility and committed to a web that works for everyone
 
