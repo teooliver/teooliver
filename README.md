@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there, I'm Teo 👋
+I'm a Web Developer aiming to be a React/Typescript specialist.
+
+#### Find me around the web 🌎:
+- 🌐 Updating my personal website with examples of my work on <a href="https://teooliver.me/">teooliver.me</a>
 
 <!--
 **teooliver/teooliver** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
