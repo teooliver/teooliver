@@ -1,10 +1,13 @@
 ### Hi there, I'm Teo 👋
 I'm a Web Developer aiming to be a React/Typescript specialist.
 
-#### Find me around the web 🌎:
-- 🌐 Updating my personal website with examples of my work on <a href="https://teooliver.me/">teooliver.me</a>
-- 🌱 Learning more about and studying: **Open Source, CS Algorithms**
+#### About:
+- 🌐 This is my personal website with examples of my work on <a href="https://teooliver.me/">teooliver.me</a>
+- 🌱 Learning more about and studying: **Open Source, CS Algorithms, Docker**
 - 😄 Passionate about accessibility and committed to a web that works for everyone
+
+### 🚀 Side projects:
+- [HabitGrid](https://habitgrid.xyz) - A Habit Tracker PWA built with React, Redux, Dexie.js and Sass.  
 
 ### My Digital Garden 🌱
 I write regular blog posts mostly about things I come back for reference and help others while doing that.
