@@ -10,7 +10,7 @@ I'm a Web Developer aiming to be a React/Typescript specialist.
 - [HabitGrid](https://habitgrid.xyz) - A Habit Tracker PWA built with React, Redux, Dexie.js and Sass.  
 
 ### My Digital Garden 🌱
-I write regular blog posts mostly about things I'm learning or would like keep it for future reference.
+I write regular blog posts mostly about things I'm learning or would like keep for future reference.
 <a href="https://listed.to/@teooliver">listed.to/@teooliver</a>
 
 <!--
