@@ -1,5 +1,5 @@
 ### Hi there, I'm Teo 👋
-I'm a Web Developer aiming to be a React/Typescript specialist.
+I'm a Web Developer who is passionate about React/Typescript.
 
 #### About:
 - 🌐 Personal website with examples of my work: <a href="https://teooliver.me/">teooliver.me</a>
