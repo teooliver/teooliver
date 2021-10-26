@@ -2,13 +2,16 @@
 I'm a Web Developer who is passionate about React/Typescript.
 
 #### About:
+- ❤️‍🔥 In love with Rust.
 - 🌐 Personal website with examples of my work: <a href="https://teooliver.me/">teooliver.me</a>
-- 🌱 Learning more about and studying: **CS Algorithms, Testing, Docker**
+- 🌱 Learning more about and studying: **Rust Backends, Warp, Rust MongoDb Driver**
 - 😄 Passionate about accessibility and committed to a web that works for everyone
 
 ### 🚀 Side projects:
-- [HabitGrid](https://habitgrid.xyz) - A Habit Tracker PWA built with React, Redux, Dexie.js and Sass.
-- [Time Tracker Base](https://github.com/teooliver/time-tracker-base) - A Typescript toggl/clockify like clone.
+- 🦀 [Rust-Warp-MongoDB](https://github.com/teooliver/rust-mongodb-warp) - A Rest API example built with Rust, Warp and MongoDB.
+- ⏱️ [Time Tracker Base](https://github.com/teooliver/time-tracker-base) - A Typescript toggl/clockify like clone.
+- 🟣 [HabitGrid](https://habitgrid.xyz) - A Habit Tracker PWA built with React, Redux, Dexie.js and Sass.
+
 
 ### My Digital Garden 🌱
 I write regular blog posts mostly about things I'm learning or would like keep for future reference.
