@@ -9,7 +9,7 @@ I'm a Web Developer who is passionate about React/Typescript.
 
 ### 🚀 Side projects:
 - 🦀 [Time Tracker Base (Server)](https://github.com/teooliver/ttb-server) - Rest API example built with Rust, Warp and MongoDB.
-- ⏱️ [Time Tracker Base (Client)](https://github.com/teooliver/time-tracker-base-v2) - A React + Typescript time tracker web app inspired by toggl/clockify.
+- ⏱️ [Time Tracker Base (Client)](https://github.com/teooliver/ttb-client) - A React + Typescript time tracker web app inspired by toggl/clockify.
 - 🦀 [rust-identicon](https://github.com/teooliver/rust-identicon) - Generate Identicon images based on a given string.
 - 🟣 [HabitGrid](https://habitgrid.xyz) - A Habit Tracker PWA built with React, Redux, Dexie.js and Sass.
 
