@@ -5,7 +5,7 @@ I'm a Web Developer who is passionate about React/Typescript.
 - ❤️‍🔥 In love with Rust.
 - 🌐 Personal website with examples of my work: <a href="https://teooliver.me/">teooliver.me</a>
 - 🌱 Learning more about and studying: **Rust Backends, Warp, Rust MongoDb Driver**
-- 😄 Passionate about accessibility and committed to a web that works for everyone
+- 😄 Committed to a web that works for everyone
 
 ### 🚀 Side projects:
 - 🦀 [Time Tracker Base (Server)](https://github.com/teooliver/ttb-server) - Rest API example built with Rust, Warp and MongoDB.
