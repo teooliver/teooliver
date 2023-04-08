@@ -1,5 +1,5 @@
 ### Hi there, I'm Teo 👋
-I'm a Web Developer who is passionate about React/Typescript.
+I'm a Web Developer who is passionate about React/Typescript and Rust.
 
 #### About:
 - ❤️‍🔥 In love with Rust.
