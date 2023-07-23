@@ -4,7 +4,7 @@ I'm a Web Developer who is passionate about React/Typescript and Rust.
 #### About:
 - ❤️‍🔥 In love with Rust.
 - 🌐 Personal website with examples of my work: <a href="https://teooliver.me/">teooliver.me</a>
-- 🌱 Learning more about and studying: **Rust Backends and Databases**
+- 🌱 Learning more about and studying: **Golang Backends**
 - 😄 Committed to a web that works for everyone
 
 ### 🚀 Side projects:
@@ -14,9 +14,11 @@ I'm a Web Developer who is passionate about React/Typescript and Rust.
 - 🦀 [rust-identicon](https://github.com/teooliver/rust-identicon) - Generate Identicon images based on a given string.
 - 🟣 [HabitGrid](https://habitgrid.xyz) - A Habit Tracker PWA built with React, Redux, Dexie.js and Sass.
 
+<!--
 ### My Digital Garden 🌱
 I write regular blog posts mostly about things I'm learning or would like keep for future reference.
 <a href="https://listed.to/@teooliver">listed.to/@teooliver</a>
+-->
 
 <!--
 **teooliver/teooliver** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
