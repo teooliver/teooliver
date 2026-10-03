@@ -2,10 +2,7 @@
 I'm a Web Developer who is passionate about React/Typescript and Rust.
 
 #### About:
-- ❤️‍🔥 In love with Rust.
 - 🌐 Personal website with examples of my work: <a href="https://teooliver.me/">teooliver.me</a>
-- 🌱 Learning more about and studying: **Microservices with Golang**
-- 😄 Committed to a web that works for everyone
 
 ### 🚀 Side projects:
 - 🦀 [Api Mock Gen (Server)](https://github.com/teooliver/api-mock-gen) - Generate mock data sets to jump start frontend projects.
