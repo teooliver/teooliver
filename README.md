@@ -5,6 +5,7 @@ I'm a Web Developer who is passionate about React/Typescript and Rust.
 - 🌐 Personal website with examples of my work: <a href="https://teooliver.me/">teooliver.me</a>
 
 ### 🚀 Side projects:
+- 🌿 [Tulsi](https://github.com/teooliver/tulsi-home) - A Kanban-style task management app with a Rust/Axum/Postgres API, a React client, and observability (Grafana/Prometheus/Tempo/Loki), self-hosted on a Raspberry Pi K3s cluster.
 - 🦀 [Api Mock Gen (Server)](https://github.com/teooliver/api-mock-gen) - Generate mock data sets to jump start frontend projects.
 - 🦀 [Time Tracker Base (Server)](https://github.com/teooliver/ttb-server) - Rest API example built with Rust, Warp and MongoDB.
 - ⏱️ [Time Tracker Base (Client)](https://github.com/teooliver/ttb-client) - A React + Typescript time tracker web app inspired by toggl/clockify.
